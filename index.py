@@ -12,7 +12,7 @@ def pedals():
     ctrl.go()
     print(json.dumps(content, indent = 2))
 
-    return("piss")
+    return("")
 
 
 if __name__ == '__main__':
